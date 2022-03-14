@@ -6,14 +6,26 @@ end_date: 2022-04-17
 preliminary_floor_plan_deadline: 2022-03-13
 digital_sign_submission_deadline: 2022-03-29
 incentive_rate_deadline: 2022-03-13
+event_coordinator:
+  name: Karen Elizarraras
+  email: karen.elizarraras@austintexas.gov
+  phone: 5124044209
 utility_coordinator:
   name: James Randall
   email: james.randall@austintexas.gov
   phone: 5124044223
+security_coordinator:
+  name: Beto Silva
+  email: humberto.silva@austintexas.gov
+  phone: 5124044118
 sales_manager:
   name: Jeff Kuryak
   email: jeff.kuryak@austintexas.gov
   phone: 5124044042
+catering_manager:
+  name: Dawn Mosley
+  email: dmosely@levyrestaurants.com 
+  phone: 5124044254
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.3.4
 searchable: true
